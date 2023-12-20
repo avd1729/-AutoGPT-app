@@ -1,1 +1,1 @@
-# -AutoGPT-app
+# AutoGPT-app
