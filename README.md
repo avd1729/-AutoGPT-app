@@ -1,1 +1,1 @@
-# AutoGPT-app
+# Blog generator
